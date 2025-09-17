@@ -1,11 +1,4 @@
 #include <iostream>
-#include <string>
-#include "getBoard.h"
-#include "moveObstacles.h"
-#include "movePlayer.h"
-using namespace std;
-
-#include <iostream>
 #include <vector>
 #include "getBoard.h"
 #include "movePlayer.h"
