@@ -2,6 +2,7 @@
 #include <vector>
 #include "getBoard.h"
 #include "movePlayer.h"
+#include "moveObstacle.h"
 
 using namespace std;
 
